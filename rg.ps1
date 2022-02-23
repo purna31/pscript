@@ -1,0 +1,1 @@
+new-azresourcegroup -name "psrgpipeline" -location "eastus"
